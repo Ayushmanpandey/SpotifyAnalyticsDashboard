@@ -1,4 +1,4 @@
-# 🎧 Spotify Analysis Dashboard 2024 – Power BI Project
+# 🎧 Spotify Analysis Dashboard - Power BI Project
 
 ## 📝 Project Overview  
 This project presents a **Spotify Analytics Dashboard** built using **Power BI** and enriched with **Python** for API integrations and custom visuals. It provides deep insights into streaming data, artist and track performance, and listener behavior patterns throughout 2024. Special highlights include a **Python-generated heatmap** using Matplotlib & Seaborn, album cover integration using Spotify's Developer API, and interactive Power BI visuals.
